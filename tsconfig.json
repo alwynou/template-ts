@@ -11,13 +11,5 @@
     "moduleResolution": "node",
     "removeComments": false,
     "resolveJsonModule": true,
-    "paths": {
-      "~/*": [
-        "./src/*"
-      ],
-      "@/*": [
-        "./types/*"
-      ]
-    }
   }
 }
